@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jokkeiii
+- 👋 Hi, I’m Jokke. Young IT enthusiast.
 - 👀 I’m interested in cybersecurity, coding and almost all tech related. 
 - 🌱 I’m currently learning information technology engineering
 
