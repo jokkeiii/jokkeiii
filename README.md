@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jokkeiii
 - 👀 I’m interested in cybersecurity, coding and almost all tech related. 
-- 🌱 I’m currently learning cyersecurity and some coding alongside that.
-- 💞️ Right now I’m not looking to collaborate on anything.
-- 📫 How to reach me? Not right now.
+- 🌱 I’m currently learning information technology engineering
 
 <!---
 jokkeiii/jokkeiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
